@@ -33,7 +33,7 @@ If you want to make money, this route is a must.
 ## Javascript Technical
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript). A must if you're new to the language.
 - [HTML Canvas Tutorials](http://www.html5canvastutorials.com/). Learn the basic on using canvas.
-- [Improving HTML5 Canvas Performans](http://www.html5rocks.com/en/tutorials/canvas/performance/). Old (2011) but still relevant.
+- [Improving HTML5 Canvas Performance](http://www.html5rocks.com/en/tutorials/canvas/performance/). Old (2011) but still relevant.
 - [High-Performance, Garbage Collector-Friendly Code](http://buildnewgames.com/garbage-collector-friendly-code/)
 - [HTML5 Game Development Tips](http://clay.io/blog/html5-game-development-tips-part-1/)
 
