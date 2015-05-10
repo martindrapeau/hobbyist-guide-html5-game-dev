@@ -1,7 +1,7 @@
 # A Hobbyist's Guide to HTML5 Game Development
 https://github.com/martindrapeau/hobbyist-guide-html5-game-dev
 
-In the course of developing my to-be-commercialized HTML5 game, I learned a whole lot of things. Some technical, some inspirational, and some marketing. This is a collection of those articles I picked up along the way. Feel free to fork and add your own.
+In the course of developing my [to-be-commercialized HTML5 game](http://www.ludosquest.com/), I learned a whole lot of things. Some technical, some inspirational, and some marketing. This is a collection of those articles I picked up along the way. Feel free to fork and add your own.
 
 P.S. What I've learned are two lessons:
 1. You need a great game (develop, test and iterate a lot).
