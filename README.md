@@ -4,8 +4,10 @@ https://github.com/martindrapeau/hobbyist-guide-html5-game-dev
 In the course of developing my [to-be-commercialized HTML5 game](http://www.ludosquest.com/), I learned a whole lot of things. Some technical, some inspirational, and some marketing. This is a collection of those articles I picked up along the way. Feel free to fork and add your own.
 
 P.S. What I've learned are two lessons:
+
 1. You need a great game (develop, test and iterate a lot).
 2. You need to market it really, really, REALLY well.
+
 In today's Internet age, a lone wolf can do both. You just need lots of time and dedication. And a bit of luck of course.
 
 ## Inspirational
