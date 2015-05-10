@@ -9,9 +9,11 @@ P.S. What I've learned are two lessons:
 In today's Internet age, a lone wolf can do both. You just need lots of time and dedication. And a bit of luck of course.
 
 ## Inspirational
+- [Gamasutra Blog](http://www.gamasutra.com/blogs). Especially the Member Blog section. Lots of insight, post-mortems, lessons learned and personal stories. I'm an addict and read everyday.
 - [David Galindo's Blog - How much do indie PC devs make, anyways?](http://www.gamasutra.com/blogs/DavidGalindo/20140109/208337/How_much_do_indie_PC_devs_make_anyways_Part_V.php). David's multi-year/game journey to success.
 - [Four common questions](http://www.gamasutra.com/blogs/RamiIsmail/20140507/217160/Four_common_questions.php), about becoming an indie and having success.
 - [Building Games *for* HTML5. Not with HTML5.](http://clay.io/blog/building-games-for-html5-not-with-html5/)
+- [Out There: A Postmortem](http://www.gamasutra.com/blogs/MichaelPeiffert/20150402/240302/Out_There_A_Postmortem.php)
 
 ## HTML5 Game Frameworks and Marketplaces (that don't suck)
 - [HTML5 Game Engines](https://html5gameengine.com/). List of bigger ones.
