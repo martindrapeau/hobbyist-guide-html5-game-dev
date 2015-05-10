@@ -45,3 +45,4 @@ In today's Internet age, a lone wolf can do both. You just need lots of time and
 - [Marketing games with no budget](http://www.gamasutra.com/blogs/AlbertPalka/20150428/242083/Marketing_games_with_no_budget.php). Damn good and practical tips.
 - [Introducing presskit() 2.5 & distribute()](http://www.gamasutra.com/blogs/RamiIsmail/20141222/233094/Introducing_presskit_25__distribute.php)
 - [Death of the app keyword - what's next?](http://www.gamasutra.com/blogs/JonathanRaveh/20150506/242840/Death_of_the_app_keyword__whats_next.php).
+- [Understanding YouTube #1 - Debunking myths](http://www.gamasutra.com/blogs/AlbertPalka/20150406/240508/Understanding_YouTube_1__Debunking_myths.php?utm_source=gamasutra&utm_medium=referal&utm_campaign=gamasutra2art)
