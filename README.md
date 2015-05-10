@@ -32,12 +32,14 @@ In today's Internet age, a lone wolf can do both. You just need lots of time and
 
 ## Game Design
 - [The Quest for Good Platformer Mechanics: Fat Men on Skates](http://www.gamasutra.com/blogs/BrendanVance/20130520/192627/The_Quest_for_Good_Platformer_Mechanics_Fat_Men_on_Ice_Skates.php)
+- [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub)
 
 ## Assets - Graphics and Music
 - [Game Dev Market](https://www.gamedevmarket.net/). Great and cheap game assets.
 - [Graphic River](http://graphicriver.net/category/game-assets). More complete library of assets but a bit mor expensive.
 - [Game Art 2D](http://www.gameart2d.com/). Alias pzUH on Graphic River, Sellfy, etc. Great stuff.
 - [Harry Mack - Game Audio Designer](http://www.harrymack.com/listen.html). I do find a lot of game music suck - sounds all the same (espcially for kids). Harry Mack brings up some good points that resonate with me [in this article](http://www.gamasutra.com/blogs/HarryMack/20150424/241874/GettingMaking_Game_Music_that_Fits__Comparative_Music_Series__Kids_vs_Kids.php) so he gets my vote.
+- [Classical Piano Music](http://www.piano-midi.de/). Popular music is all about a catchy melodie. Listen from the greats from inspiration.
 
 ## Marketing
 - [Marketing games with no budget](http://www.gamasutra.com/blogs/AlbertPalka/20150428/242083/Marketing_games_with_no_budget.php). Damn good and practical tips.
