@@ -22,6 +22,14 @@ In today's Internet age, a lone wolf can do both. You just need lots of time and
 - [Backbone Game Engine](http://martindrapeau.github.io/backbone-game-engine/). Self pitch:)
 - [clay.io](http://clay.io/). I really respect what these guys are trying to do. Read Austin Hallock's blog posts.
 
+## Going Native
+If you want to make money, this route is a must.
+- [Ludei's CocoonJS](https://www.ludei.com/cocoonjs/)
+- [Phonegap](http://phonegap.com/)
+- [Ejecta](http://impactjs.com/ejecta) by ImpactJS.
+- [Node Webkit](http://nwjs.io/). For deploying native to Windows or Mac. [Checkout this article](http://html5hub.com/deploying-hybrid-html5-games-on-the-desktop-using-node-webkit/).
+- [GreenWorks](https://github.com/greenheartgames/greenworks). For deploying to Steam.
+
 ## Javascript Technical
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript). A must if you're new to the language.
 - [HTML Canvas Tutorials](http://www.html5canvastutorials.com/). Learn the basic on using canvas.
